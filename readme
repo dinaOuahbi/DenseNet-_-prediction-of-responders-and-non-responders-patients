@@ -1,0 +1,5 @@
+model cnn type DenseNet v6
+entrainner sur une BDD BSC / REINHARD de 85 patients (43523 tuiles)
+prediction : PROG<6 MOIS vs REP>36 MOIS
+Global average pooling : 1024 variableS / issue uniquement de tuiles tumoral >95% d'incertitude 
+
