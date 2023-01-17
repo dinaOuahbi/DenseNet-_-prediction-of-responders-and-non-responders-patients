@@ -18,7 +18,7 @@ Voici un exemple de clustering de couleurs sur une tuile
 
 Normalisation par les deux méthodes : Reinhard et Macenko 
 
-## our model architectur 
+## Architecture du CNN 
 ![Image of aciduino on protoboard](https://github.com/dinaOuahbi/DenseNet-_-prediction-of-responders-and-non-responders-patients/blob/main/densenet_arch.png)
 ![Image of aciduino on protoboard](https://github.com/dinaOuahbi/DenseNet-_-prediction-of-responders-and-non-responders-patients/blob/main/densenet_arch_details.png)
 
