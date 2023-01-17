@@ -4,7 +4,7 @@ L’objectif etant de prédire le pronostique des patients à partir d’un rés
 
 ## Step by step 
 ## Filtration et normalisation des tuiles
-![Image of aciduino on protoboard](https://github.com/dinaOuahbi/DenseNet-_-prediction-of-responders-and-non-responders-patients/blob/main/filtration_norm_slide.png)
+![Image of aciduino on protoboard](https://github.com/dinaOuahbi/DenseNet-_-prediction-of-responders-and-non-responders-patients/blob/main/filtration_norm_slide.PNG)
 
 ## Architecture du CNN 
 ![Image of aciduino on protoboard](https://github.com/dinaOuahbi/DenseNet-_-prediction-of-responders-and-non-responders-patients/blob/main/densenet_arch.png)
